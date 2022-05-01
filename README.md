@@ -20,6 +20,12 @@ Additional Expectations:
 
 Assignment Example Picture:
     See image example named: 01-html-css-git-homework-demo.png
+
+Repository link where finalzed project can be pulled
+    https://github.com/laurabora118/UofA-Module1-AccessibilityChallenge-LSandura
+
+Git Site that shows finished results:
+    https://laurabora118.github.io/UofA-Module1-AccessibilityChallenge-LSandura/
     
 References:
-    #Starter Code and assignment received in assignment from Xandromus at Git link "https://github.com/coding-boot-camp/urban-octo-telegram" by Horiseon
+    #Starter Code and assignment received in UofA assignment from Xandromus at Git link "https://github.com/coding-boot-camp/urban-octo-telegram" by Horiseon
